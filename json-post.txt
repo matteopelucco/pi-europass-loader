@@ -1,0 +1,17 @@
+{
+    "qualification": "Qualifica",
+    "organisationName": "Organizzazione",
+    "city": "Città",
+    "creationDate": "2024-07-30T21:49:55.952529039",
+    "startDate": {
+        "date": "2017-08-10",
+        "dateType": "DAY",
+        "empty": false
+    },
+    "endDate": {
+        "date": "2017-08-11",
+        "dateType": "DAY",
+        "empty": false
+    },
+    "ongoing": false
+}

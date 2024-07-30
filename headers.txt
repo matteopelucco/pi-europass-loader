@@ -1,0 +1,22 @@
+POST /europass/eportfolio/api/eprofile/profiles/66a6493fa89ba072bef3badb/educations-training HTTP/1.1
+Accept: application/json, text/plain, */*
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control: No-Cache
+Connection: keep-alive
+Content-Length: 1092
+Content-Type: application/json
+Cookie: dtCookie=v_4_srv_33_sn_6C52DBC52E34875E3A87496B9B405FD9_perc_100000_ol_0_mul_1_app-3A5808f124b494edbd_1_rcs-3Acss_0; XSRF-TOKEN=3e73a999-87c8-43c1-86f7-f6d276bf0973; EUROPASS_API_SESSION_ID=c80f7a50-8dad-4396-b1ba-60bcc66cb5af; EUROPASS_AUTH_SESSION_ID=OTY0M2E5ZTAtZGQxOC00ZDNmLWE2MTUtYWEzZDE4YTc1YWZk; dtCookie=v_4_srv_33_sn_0678FC912AF5A36C048DF28FA42B00DA; _pk_ses.1bd3d421-8073-4872-99de-c7c0e2242372.9e93=*; _pk_id.1bd3d421-8073-4872-99de-c7c0e2242372.9e93=11a7dd421db762a6.1722173409.2.1722376075.1722376067.; cck1=%7B%22cm%22%3Atrue%2C%22all1st%22%3Atrue%2C%22closed%22%3Afalse%7D; rxVisitor=1722376061958D72L17L9GQKVA0B4E5SCE2JC0IDL53GE; dtCookie=v_4_srv_33_sn_6C52DBC52E34875E3A87496B9B405FD9_perc_100000_ol_0_mul_1_app-3A5808f124b494edbd_1_rcs-3Acss_0; dtSa=-; rxvt=1722377994535|1722376061959; dtPC=33$376069889_815h33vRBUKGPEARPUFRRPKUABBDQGKRAKQWSIG-0e0
+Host: europa.eu
+Origin: https://europa.eu
+Referer: https://europa.eu/europass/eportfolio/screen/profile?lang=it
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+X-Requested-With: XMLHttpRequest
+X-XSRF-TOKEN: 3e73a999-87c8-43c1-86f7-f6d276bf0973
+sec-ch-ua: "Not)A;Brand";v="99", "Google Chrome";v="127", "Chromium";v="127"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+x-dtpc: 33$376069889_815h33vRBUKGPEARPUFRRPKUABBDQGKRAKQWSIG-0e0
