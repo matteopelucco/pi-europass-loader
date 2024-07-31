@@ -9,7 +9,7 @@ from datetime import datetime
 file_path = 'Corsi di formazione 2024.xlsx'
 df = pd.read_excel(file_path, header=None, skiprows=2)
 
-# Setup Europass API
+# Setup Europass API params
 profile_id = "66a6493fa89ba072bef3badb"
 url = "https://europa.eu/europass/eportfolio/api/eprofile/profiles/" + profile_id + "/educations-training"
 dtpc = "33$376069889_815h33vRBUKGPEARPUFRRPKUABBDQGKRAKQWSIG-0e0"
